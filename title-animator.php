@@ -6,7 +6,7 @@ Description: Animated Title (Title tag) in Wordpress.
 Version:1.0
 Author: Arkaprava Majublinkmder
 Author URI: http://arkapravamajumder.com
-License: GPL
+License: GPLv2 or later.
 */
 error_reporting(0);
 define('TR_PLUGIN_DIR_NAME','title-animator');

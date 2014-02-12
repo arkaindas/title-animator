@@ -4,7 +4,7 @@ Tags: title, title rotator, title animator, title tag
 Requires at least: 2.8
 Tested up to: 3.8.1
 Stable tag: trunk
-License: GPL or later
+License: GPLv2 or later.
 
 Animate your website title with five different effects, lightweighted & easy installation.
 
