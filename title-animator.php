@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Title Animator
-Plugin URI: http://arkapravamajumder.com
+Plugin URI: https://wordpress.org/plugins/title-animator
 Description: Animated Title (Title tag) in Wordpress.
 Version:1.0
-Author: Arkaprava Majublinkmder
+Author: Arkaprava Majumder
 Author URI: http://arkapravamajumder.com
 License: GPLv2 or later.
 */
